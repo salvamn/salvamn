@@ -29,7 +29,7 @@
 <p align="left">
   <img src="./cleridor_symbol.png" width="90" alt="Cleridor Logo" align="left" style="margin-right: 20px;"/>
   <b>Cleridor</b><br>
-  Fundé Cleridor (aun nada legal) con el objetivo de crear soluciones de software de alta calidad. Nos enfocamos en desarrollar herramientas útiles, eficientes y con un diseño cuidado, alejándonos de lo genérico para ofrecer productos que realmente aporten valor.
+  Fundé Cleridor (aún no formalizada legalmente) con el objetivo de crear soluciones de software de alta calidad. Nos enfocamos en desarrollar herramientas útiles, eficientes y con un diseño cuidado, alejándonos de lo genérico para ofrecer productos que realmente aporten valor.
   <br clear="left"/>
 </p>
 
@@ -45,7 +45,7 @@
     </td>
     <td>
       <b>Proyecto Educativo (Finalizado)</b><br>
-      Una herramienta diseñada para demostrar visualmente cómo es posible extraer credenciales almacenadas en un sistema local. El desarrollo llegó a su fin de forma abrupta cuando Windows Defender eliminó el código fuente automáticamente tras catalogarlo erróneamente como un virus. (<span style="color: red;">my bad</span>)
+      Una herramienta diseñada para demostrar visualmente cómo es posible extraer credenciales almacenadas en un sistema local. El desarrollo llegó a su fin de forma abrupta cuando Windows Defender eliminó el código fuente automáticamente tras catalogarlo erróneamente como un virus. <i>(my bad)</i> 😅
     </td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@
     </td>
     <td>
       <b>Aplicación de Fitness (En Pausa)</b><br>
-      Plataforma revolucionaria enfocada en el entrenamiento 100% personalizado, alejándose de las aplicaciones genéricas del mercado. Permitía adaptar cada detalle del entrenamiento al usuario. Actualmente en pausa debido a problemas de conflictos con el dominio del proyecto. (my bad nuevamente)
+      Plataforma revolucionaria enfocada en el entrenamiento 100% personalizado, alejándose de las aplicaciones genéricas del mercado. Permitía adaptar cada detalle del entrenamiento al usuario. Actualmente en pausa debido a problemas de conflictos con el dominio del proyecto. <i>(my bad nuevamente)</i> 😅
     </td>
   </tr>
   <tr>
@@ -70,7 +70,6 @@
   </tr>
   <tr>
     <td align="center" width="150">
-      <!-- Cambia "./lia.png" por el nombre real de tu imagen si la tienes -->
       <img src="./lia.png" width="80" alt="LIA" /><br>
       <b>LIA</b>
     </td>
@@ -131,6 +130,33 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" />
 </p>
+
+---
+
+## 🎯 Más allá del código
+
+⚽ **Fútbol y pasión por la U**: Soy un apasionado del fútbol y un hincha fiel del **Club Universidad de Chile** 
+<img src="./u.png" height="25" valign="middle" alt="U de Chile" /> 
+<img src="./liga.png" height="25" valign="middle" alt="Liga" /> 
+<img src="./copaChile.png" height="25" valign="middle" alt="Copa Chile" /> 
+<img src="./CopaSudamericana.png" height="25" valign="middle" alt="Copa Sudamericana" /> 
+<img src="./Supercopa_de_Chile.png" height="25" valign="middle" alt="Supercopa" />
+
+🚴 **Tiempo libre**: Cuando no estoy programando, disfruto salir a andar en bicicleta, ver películas o series, y en general, dedicar tiempo a hacer las cosas que me gustan y me hacen bien.
+
+---
+## 📸 Un poco más de mí
+
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <img src="./yo.jpeg" width="250" alt="Salvamn" style="border-radius: 8px;" /><br>
+    </td>
+    <td align="center">
+      <img src="./unihue.jfif" width="250" alt="Unihue" style="border-radius: 8px;" /><br>
+    </td>
+  </tr>
+</table>
 
 ---
 
